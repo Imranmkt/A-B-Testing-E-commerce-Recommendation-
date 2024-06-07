@@ -1,4 +1,4 @@
-# A/B Testing on Recommendation Algorithm 
+# A/B Testing on Recommendation Algorithm's Result
 
 Context:
 The dataset originates from an e-commerce platform that implemented a recommendation algorithm to suggest additional products to customers based on their browsing and purchase history. Specifically, the platform aimed to test whether suggesting a phone or a cover (an accessory) along with other products would influence the customer's likelihood to make a purchase.
@@ -21,3 +21,7 @@ The dataset includes records of customer interactions with the recommendation sy
 Objective:
 
 The primary objective of the analysis was to conduct A/B testing to evaluate the effectiveness of the recommendation algorithm. Specifically, I aimed to determine whether the type of suggestion (phone or cover) had a significant impact on the purchase decisions of customers.
+
+Conclusion:
+
+The recommendation algorithm's suggestion type significantly affects customer purchase behavior. Specifically, suggesting phones resulted in higher purchase rates compared to suggesting covers. This insight can help the e-commerce platform refine its recommendation strategies to enhance sales and customer engagement
